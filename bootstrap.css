@@ -1,0 +1,28 @@
+.col-sm-3{	
+	border:2px green solid;
+	background-color: pink;
+	
+
+}
+body{
+     	background-image: url(https://images.unsplash.com/photo-1465488867967-ffb57e7f0a89?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    background-size: cover;                                                                                                                                                        
+
+ }
+.card-header{
+	
+	color:black;
+}
+.card-text{
+	font-family:cursive;
+
+}
+.card-title{
+	   color: green;
+}
+.footer{
+	background-size: cover;
+	background-color:violet;
+	 min-height:80px;
+
+}
