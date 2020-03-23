@@ -1,5 +1,5 @@
 .col-sm-3{	
-	border:2px green solid;
+	border:2px grey solid;
 	background-color: pink;
 	
 
@@ -18,7 +18,7 @@ body{
 
 }
 .card-title{
-	   color: green;
+	   color: red;
 }
 .footer{
 	background-size: cover;
